@@ -1,5 +1,4 @@
 hello.txt
-*.txt
 log/*.log
 !log/assert/
 video/
